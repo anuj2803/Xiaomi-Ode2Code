@@ -11,12 +11,12 @@ This is Suitable for both Mobile and PC.
 * Now you're all done! just open in browser - http://localhost/inventory/pages/login.php
 
 
-## HERE ARE THE SCREENSHOTS OF OUR SOFTWARE JUST CLICK ON THE LINK AND ACCESS THE PHOTOS
+### HERE ARE THE SCREENSHOTS OF OUR SOFTWARE JUST CLICK ON THE LINK AND ACCESS THE PHOTOS
 
 link: https://drive.google.com/drive/folders/14rnpqQFLOvpi4ZrK-JX1KC5l8-KFXoHQ?usp=drive_link
 
 
-## Login Credentials 
+### Login Credentials 
 Username1 : admin1
 password1 : admin1
 
@@ -28,3 +28,11 @@ password3 : admin3
 
 Username4 : admin4
 password4 : admin4
+
+### TECH_STACK USED
+* FrontEnd : HTML SCSS JS BootStrap.
+* Backend : PHP MYSQL
+* Support : PC and MOBILE BROWSER
+  
+( We dont use SpringBoot due to the shortage of time as we are not that much familiar with that technology. So it will take time to learn and implement. If we get enough time then we will able to develop it in Springboot)
+
